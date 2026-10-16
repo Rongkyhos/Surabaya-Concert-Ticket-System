@@ -36,7 +36,7 @@ A console-based concert ticket management system built with Python.
 3. Open the integrated terminal.
 4. Run the Python file:
 
-   `python nama_file_python_kamu.py`
+   `python Concert Ticket.py`
 
    Replace the filename with your actual Python filename.
 
